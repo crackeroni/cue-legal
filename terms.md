@@ -1,9 +1,9 @@
 # Terms of Service — Cue
 
-**Last updated:** 27 August 2026
+**Last updated:** 15 September 2026
 
-These terms govern your use of Cue ("the app"), developed by [your
-name/business here] ("we", "us"). By creating an account you agree to them.
+These terms govern your use of Cue ("the app"), developed by Niccolo
+Felicani ("we", "us"). By creating an account you agree to them.
 
 > Same caveat as the privacy policy: drafted alongside the app's code as a
 > good-faith starting point, not a substitute for legal review — especially
@@ -91,4 +91,4 @@ the update.
 
 ## Contact
 
-[your email here]
+felicani.1844775@gmail.com

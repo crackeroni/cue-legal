@@ -1,10 +1,10 @@
 # Privacy Policy — Cue
 
-**Last updated:** 27 August 2026
+**Last updated:** 15 September 2026
 
 This describes what Cue ("the app") collects, why, and what rights you have
-over it. Cue is developed by [your name/business here] ("we", "us").
-Contact for anything privacy-related: [your email here].
+over it. Cue is developed by Niccolo Felicani ("we", "us").
+Contact for anything privacy-related: felicani.1844775@gmail.com.
 
 > This document is a starting point drafted alongside the app's code, not a
 > substitute for legal review — particularly before Cue accepts payments or
