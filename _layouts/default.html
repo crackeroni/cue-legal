@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#12151b">
+    <meta name="description" content="Cue support, privacy, terms, and account deletion information.">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}Cue</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Cue legal and support home">
+        <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+        <span>Cue<span class="accent">.</span></span>
+      </a>
+      <nav aria-label="Legal and support">
+        <a href="{{ '/privacy.html' | relative_url }}">Privacy</a>
+        <a href="{{ '/terms.html' | relative_url }}">Terms</a>
+        <a class="nav-action" href="{{ '/delete-account.html' | relative_url }}">Delete account</a>
+      </nav>
+    </header>
+    <main class="page-shell">{{ content }}</main>
+    <footer>
+      <div><strong>Cue</strong> · Notes pinned to the moment.</div>
+      <div>Developed by Niccolo Felicani · <a href="mailto:felicani.1844775@gmail.com">Contact</a></div>
+    </footer>
+  </body>
+</html>

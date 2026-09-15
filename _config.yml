@@ -1,2 +1,5 @@
-theme: jekyll-theme-minimal
 title: Cue
+description: Cue legal, privacy, support, and account deletion information.
+url: https://crackeroni.github.io
+baseurl: /cue-legal
+markdown: kramdown

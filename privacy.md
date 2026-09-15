@@ -1,3 +1,10 @@
+---
+layout: default
+title: Privacy Policy
+---
+
+<div class="eyebrow">Privacy</div>
+
 # Privacy Policy — Cue
 
 **Last updated:** 15 September 2026
@@ -5,10 +12,6 @@
 This describes what Cue ("the app") collects, why, and what rights you have
 over it. Cue is developed by Niccolo Felicani ("we", "us").
 Contact for anything privacy-related: felicani.1844775@gmail.com.
-
-> This document is a starting point drafted alongside the app's code, not a
-> substitute for legal review — particularly before Cue accepts payments or
-> is published publicly at any scale.
 
 ## What we collect
 
@@ -60,12 +63,17 @@ your account. Failure logs are kept only as long as useful for debugging —
 we aim not to hold these longer than about 90 days, though at this stage
 that cleanup is manual rather than automatic.
 
+## How we protect it
+
+Cue sends data over encrypted HTTPS connections. Supabase provides authentication and database hosting, and database row-level security limits access to the account owner and explicitly invited project collaborators. Administrative credentials and the YouTube API key are kept on the server and are not included in the app. No internet service can guarantee absolute security, but access is limited to what is required to operate and maintain Cue.
+
 ## Your rights
 
 - **Access & portability** — export any video's notes (or a whole
   project's) as a text file from inside the app at any time.
 - **Correction** — edit or delete any note yourself, whenever you like.
-- **Erasure** — delete your account from Account → Delete account. This
+- **Erasure** — delete your account from Account → Delete account, or use our
+  [external account-deletion page](delete-account.html) if you no longer have the app. This
   permanently removes your profile and everything you've authored,
   including any project you own (which also removes it for anyone you'd
   invited to collaborate — you'll be warned about this before confirming).
