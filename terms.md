@@ -49,13 +49,10 @@ your account, that project (and everyone's notes in it) is deleted too,
 including for your collaborators; you'll be warned about this before
 confirming account deletion.
 
-## Subscriptions
+## Fees and payments
 
-At the time of writing, Cue is free. If paid plans launch, billing will run
-through Google Play's subscription system — meaning auto-renewal,
-cancellation, and refund mechanics follow Google Play's own policies, not a
-custom system of ours. This section will be updated with specifics before
-any paid plan goes live.
+Cue is provided free of charge. It does not offer subscriptions or in-app
+purchases, and we do not collect payment-card or billing information.
 
 ## Termination
 
@@ -74,11 +71,10 @@ connections gracefully (queuing notes offline rather than losing them).
 
 ## Liability
 
-To the extent permitted by law, our liability to you is limited to the
-amount you've paid us in the past 12 months (currently zero, since Cue is
-free). Nothing here limits any rights you have as a consumer that can't be
-waived under the mandatory law of your country of residence, if you're an
-EU consumer.
+Nothing in these terms excludes or limits liability where applicable law
+does not allow it, including mandatory consumer rights. Subject to those
+protections, and to the extent permitted by law, we are not liable for
+indirect or consequential losses arising from your use of the free service.
 
 ## Governing law
 

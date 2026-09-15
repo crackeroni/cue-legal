@@ -9,7 +9,7 @@ title: Privacy Policy
 
 **Last updated:** 15 September 2026
 
-This describes what Cue ("the app") collects, why, and what rights you have
+This Privacy Policy explains what Cue ("the app") collects, why, and what rights you have
 over it. Cue is developed by Niccolo Felicani ("we", "us").
 Contact for anything privacy-related: felicani.1844775@gmail.com.
 
@@ -30,6 +30,9 @@ fix what went wrong. This never includes the content of your notes.
 
 We don't run ads, don't use third-party analytics or advertising SDKs, and
 don't sell data to anyone.
+
+Cue is provided free of charge. It does not offer subscriptions or in-app
+purchases, and we do not collect payment-card or billing information.
 
 ## Why we process it
 
