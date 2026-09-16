@@ -23,6 +23,10 @@ your account.
 **Content you create**: the videos you add, the notes you write and their
 timestamps, project names, and who you invite to collaborate.
 
+**Product interest**: if you choose to preview a proposed feature or join its
+early-access list, we record the feature, price shown, date, and your account ID.
+This does not create a purchase or subscription and does not collect payment data.
+
 **Failure logs**: if something in the app breaks, a record of the error
 message, a technical stack trace, your device platform, and the app
 version — tied to your account if you were signed in, so we can find and
