@@ -28,6 +28,7 @@ We may ask for reasonable verification if the request comes from a different add
 - Your Cue authentication account and stored profile information, including your name, email address, and profile photo.
 - Notes you authored, project memberships, and projects you own.
 - The link between your account and videos you added.
+- Product-usage events and early-access interest associated with your account.
 - Identifiable diagnostic records associated with your account.
 
 Projects owned by you are removed. Notes authored by other people remain their content and return to their own library without the deleted project. Cached public YouTube metadata may remain because it is not account data. Limited residual copies may remain temporarily in infrastructure backups before they are overwritten.

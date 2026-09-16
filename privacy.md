@@ -7,7 +7,7 @@ title: Privacy Policy
 
 # Privacy Policy — Cue
 
-**Last updated:** 15 September 2026
+**Last updated:** 16 September 2026
 
 This Privacy Policy explains what Cue ("the app") collects, why, and what rights you have
 over it. Cue is developed by Niccolo Felicani ("we", "us").
@@ -26,6 +26,13 @@ timestamps, project names, and who you invite to collaborate.
 **Product interest**: if you choose to preview a proposed feature or join its
 early-access list, we record the feature, price shown, date, and your account ID.
 This does not create a purchase or subscription and does not collect payment data.
+
+**Product usage**: we record a limited set of account-linked events: opening the
+app, adding a video, creating your first note or another note, creating a project,
+and interacting with a proposed feature. We also record the app platform and
+version when the app is opened. We do not record note text, project names, video
+URLs or titles, searches, precise location, advertising identifiers, or device
+fingerprints.
 
 **Failure logs**: if something in the app breaks, a record of the error
 message, a technical stack trace, your device platform, and the app
@@ -46,6 +53,9 @@ purchases, and we do not collect payment-card or billing information.
 - **To keep it reliable** (failure logs): our legitimate interest in
   finding and fixing bugs, weighed against the limited, non-content data
   involved.
+- **To understand whether Cue is useful** (limited product-usage events): our
+  legitimate interest in improving the app and deciding which features to build,
+  using only the minimum event data described above.
 
 ## Who else sees it
 
@@ -66,7 +76,8 @@ purchases, and we do not collect payment-card or billing information.
 ## How long we keep it
 
 Your notes, projects, and profile are kept until you delete them or delete
-your account. Failure logs are kept only as long as useful for debugging —
+your account. Raw product-usage events are automatically deleted after 90 days
+and are deleted earlier if you delete your account. Failure logs are kept only as long as useful for debugging —
 we aim not to hold these longer than about 90 days, though at this stage
 that cleanup is manual rather than automatic.
 
